@@ -1,0 +1,5 @@
+audio/question1.wav: muraho
+audio/question2.wav: bite
+audio/question3.wav: amakuru
+audio/question4.wav: neza
+audio/question5.wav: murakoze

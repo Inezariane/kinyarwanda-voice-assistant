@@ -1,0 +1,5 @@
+transformers
+torchaudio
+gtts
+accelerate
+datasets
