@@ -23,18 +23,18 @@ This project is a voice assistant for the Kinyarwanda language using OpenAI's Wh
 ```bash
 git clone https://github.com/your-username/kinyarwanda-voice-assistant.git
 cd kinyarwanda-voice-assistant
-
+```
 ### 2. Install the dependencies 
 
 ```bash
 pip install -r requirements.txt
-
+```
 ### 3. Run the application
 
 ```bash
 cd app
 python assistant.py
-
+```
 ### 👉🏾 Please make sure you are connected to a stable internet as the model requires heavy dependencies.
 
 ## Credits 
