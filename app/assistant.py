@@ -19,9 +19,9 @@ tts_tokenizer = VitsTokenizer.from_pretrained("facebook/mms-tts-kin")
 qa_pairs = {
     "amakuru": "Ni meza, urakoze!",
     "muraho": "Muraho neza!",
-    "murakoze": "Nishimiye kubafasha!",
-    "ikinyarwanda ni iki": "Ni ururimi kavukire rw'Abanyarwanda.",
-    "amakuru yawe": "Ni meza, ndashimira!"
+    "bite": "Ni byiza nshuti!",
+    "murakoze": "Nta kibazo nshuti, nishimiye kugufasha.",
+    "neza": "Umeze neza se ? Ndumva ari byiza."
 }
 
 # Output directory
